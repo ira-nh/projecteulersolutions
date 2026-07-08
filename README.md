@@ -14,3 +14,14 @@ Each problem folder contains:
 - Practice Python
 - Improve algorithmic thinking
 - Explore mathematical optimization
+
+# Project Euler Solutions
+
+My solutions to Project Euler problems using Python.
+
+## Completed Problems
+
+| Problem | Solution |
+|---------|----------|
+| 1 | [task0.py](task0.py) |
+| 2 | [task1.py](task1.py) |
