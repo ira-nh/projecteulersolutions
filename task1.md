@@ -8,6 +8,7 @@ I looped through every number from 0 to 1000.
 For each number:
 - Check if divisible by 3 or 5.
 - Add it to total if it is.
+- Subtract common numbers (i.e. multiples of 15).
 
 ## Mathematical approach:
 
